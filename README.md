@@ -28,4 +28,5 @@
 ## 🚀 نحوه اجرا
 1. پروژه را Clone یا دانلود کنید:
 ```bash
-git clone https://github.com/username/LibraryManagementSystem.git
+git clone https://github.com/sadegh-it/LibraryManagementSystem.git
+
